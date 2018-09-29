@@ -1,0 +1,33 @@
+cc.FileUtils
+cc.FileUtils:getInstance():getStringFromFile
+			cc.XMLHttpRequest
+			cc.XMLHTTPREQUEST_RESPONSE_JSON
+			cc.exports.TimerProxy
+			display.newLayer
+cc.c4b(0, 0, 0, 0)
+cc.Sprite:create("wait_round.png")
+cc.RepeatForever:create(cc.RotateBy:create(2 , 360))
+cc.RemoveSelf:create()
+cc.Label:createWithTTF
+cc.MoveTo
+cc.Sequence
+cc.CallFunc
+cc.FadeTo
+cc.DelayTime
+cc.p(1,0)
+cc.Application:getInstance():getTargetPlatform()
+cocos2d.lua ¿Ô√Ê
+Cocos2dConstants.lua
+DeprecatedCocos2dClass.lua
+DeprecatedCocos2dFunc.lua
+cc.CCBReader
+cc.SimpleAudioEngine
+DeprecatedExtensionClass.lua
+cc.Handler
+cc.LabelAtlas:_create
+cc.TableView
+cc.TableViewCell
+ccui.EditBox:create
+cc.PLATFORM_OS_ANDROID
+cc.SpriteFrameCache
+
